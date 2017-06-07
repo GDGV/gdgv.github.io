@@ -55,7 +55,7 @@ We are always open for feedback and listening to community to build a better com
 - [Meetup](https://meetup.com/gdgcloudvancouver)
 - [Twitter](http://twitter.com/gdgvancouver)
 - [Facebook](https://facebook.com/gdgvancouver)
-- [Anonymous Feedback](https://docs.google.com/forms/d/17RK2nQWeV3wDpUOWjLvGrxRjkPByXqXZCvOv8W-gk8s/viewform?entry_385327315=GDG%20Cloud%20Vancouver)
+- [Event Feedback](https://docs.google.com/forms/d/17RK2nQWeV3wDpUOWjLvGrxRjkPByXqXZCvOv8W-gk8s/viewform?entry_385327315=GDG%20Cloud%20Vancouver)
 
 #### Disclamer
 
