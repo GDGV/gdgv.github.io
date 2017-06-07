@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# GDG Cloud Vancouver - Welcome
 
-You can use the [editor on GitHub](https://github.com/GDGV/gdgv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Upcoming Events
 
-### Markdown
+### Google IO Recap
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Location: TBD
+- Date: TBD
+- Time: TBD
+- RSVP: TBD
 
-```markdown
-Syntax highlighted code block
+#### [Past Events](https://meetup.com/gdgcloudvancouver)
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## About
 
-1. Numbered
-2. List
+### Who we are
 
-**Bold** and _Italic_ and `Code` text
+We are a local community of:
 
-[Link](url) and ![Image](src)
-```
+- Developers
+- Data Scientists
+- Cloud Architects
+- AI Enthusistas
+- Startups
+- Anyone interested in technology
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### What we do
 
-### Jekyll Themes
+We organize different kinds of events, such as:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GDGV/gdgv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Speaker Sessions
+- CodeLabs
+- Product Demos
+- Lightning Talks
+- Other fun stuff
 
-### Support or Contact
+### Topics we cover
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We cover anything and everything technical, but major focus are:
+
+- Open Source
+- Kubernetes
+- Tensorflow
+- Google Cloud Platform
+- Women Techmaker
+
+### Where to find us
+
+We are always open for feedback and listening to community to build a better community. Reach out to us here:
+
+- [Meetup](https://meetup.com/gdgcloudvancouver)
+- [Twitter](http://twitter.com/gdgvancouver)
+- [Facebook](https://facebook.com/gdgvancouver)
+- [Anonymous Feedback](https://docs.google.com/forms/d/17RK2nQWeV3wDpUOWjLvGrxRjkPByXqXZCvOv8W-gk8s/viewform?entry_385327315=GDG%20Cloud%20Vancouver)
+
+#### Disclamer
+
+GDG Cloud Vanvouver is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.
